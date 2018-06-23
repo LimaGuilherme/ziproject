@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/21 21:25:28.000.784,=E:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/12 18:13:12.000.307,=E:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/12 20:13:58.000.487,E:\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\_workspace\zipper\Unit1.dfm</Transaction>
+    <Transaction>2018/06/12 20:13:58.000.487,E:\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\_workspace\zipper\Unit1.pas</Transaction>
+    <Transaction>2018/06/12 20:13:59.000.572,E:\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\_workspace\zipper\Project1.dproj</Transaction>
+    <Transaction>2018/06/12 20:59:48.000.718,=C:\Users\Guilherme Lima\Desktop\icons8-adicionar-pasta-35.png</Transaction>
+    <Transaction>2018/06/12 20:59:48.000.723,=C:\Users\Guilherme Lima\Desktop\icons8-salvar-lista-de-guias-35.png</Transaction>
+    <Transaction>2018/06/17 01:22:16.000.231,C:\_workspace\zipper\Project1.dproj=C:\_workspace\zipper\EasyZip.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
