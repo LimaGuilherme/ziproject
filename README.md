@@ -47,7 +47,7 @@ Winrar / 7zip to see the files :)
 
 ## Authors
 
-* **Guilherme LimA** - *Initial work* - [GitHub](https://github.com/LimaGuilherme)
+* **Guilherme Lima** - *Initial work* - [GitHub](https://github.com/LimaGuilherme)
 
 ## License
 
