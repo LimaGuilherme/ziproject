@@ -8,7 +8,32 @@ Just execute EasyZip.exe:
 
 Pasta de Entrada(Input Folder): your files you wanna zip.
 
-Pasta de Saída(Output Folder): folder you wanna save the zip files.
+Pasta de Saída(Output Folder): folder you wanna save the zip files
+
+Files structure:
+
+Input Folder:
+
+  - area.shp
+  - area.shx
+  - area.dbf
+  
+  - farm.shp
+  - farm.shx
+  - farm.dvf
+  
+OutPut Folder:
+
+  - area.zip
+      - area.shp
+      - area.shx
+      - area.dbf
+      
+  - farm.zip
+      - farm.shp
+      - farm.shx
+      - farm.dbf
+
 
 ### Prerequisites
 
@@ -22,7 +47,7 @@ Winrar / 7zip to see the files :)
 
 ## Authors
 
-* **Guilherme LImA** - *Initial work* - [PurpleBooth](https://github.com/LimaGuilherme)
+* **Guilherme LimA** - *Initial work* - [GitHub](https://github.com/LimaGuilherme)
 
 ## License
 
